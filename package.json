@@ -1,0 +1,14 @@
+{
+  "name": "miniprojectapi",
+  "version": "1.0.0",
+  "description": "Mini Project API of 110's Project",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "PRASAD",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
